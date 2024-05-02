@@ -15,4 +15,4 @@ is derived over the imperfect Nakagami-m and Norton fading
 channels. Theoretical and simulation results of our proposed new
 PLS scheme have shown significant improvement in the secrecy
 capacity and secrecy outage probability for both CUs and DUs
-in comparison with the existing method
+in comparison with the existing methods.
